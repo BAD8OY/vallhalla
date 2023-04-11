@@ -7,3 +7,4 @@ flask-marshmallow==0.14.0
 marshmallow-sqlalchemy==0.29.0
 swagger-ui-bundle==0.0.9
 pytest==7.2.2
+pytest-flask==1.2.0
